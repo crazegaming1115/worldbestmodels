@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- White background -->
+  <circle cx="100" cy="100" r="100" fill="white"/>
+  <!-- Outer pink ring -->
+  <circle cx="100" cy="100" r="97" fill="#CC2B5A"/>
+  <!-- White gap ring -->
+  <circle cx="100" cy="100" r="82" fill="white"/>
+  <!-- Inner pink filled circle -->
+  <circle cx="100" cy="100" r="76" fill="#CC2B5A"/>
+  <!-- Inner thin white ring -->
+  <circle cx="100" cy="100" r="68" fill="none" stroke="white" stroke-width="2.5"/>
+  <!-- WBM text -->
+  <text
+    x="100"
+    y="112"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="38"
+    font-weight="700"
+    letter-spacing="3"
+    fill="white"
+  >WBM</text>
+</svg>
